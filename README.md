@@ -20,7 +20,7 @@
     <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
   </a>
 
-  **Organização**. O Currículo é organizado da seguinte forma:
+  ## Organização do currículo
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
 - **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
 - **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
