@@ -18,8 +18,7 @@
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
 	Olá, eu me chamo Guilherme e este repostório trata-se de uma organização minha em relação aos estudos sobre ciência da computação. 
-	Você 
-	__não__ encontrará explicações sobre conceitos ou qualquer outra coisa.  
+	Você NÃO encontrará explicações sobre conceitos ou qualquer outra coisa.
 </p>
 
   
