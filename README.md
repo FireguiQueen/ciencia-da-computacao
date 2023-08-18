@@ -1,6 +1,6 @@
 <!-- INTRODUÇÃO -->
 <p align="center">
-	<h1 align="center">Aprendizado vindo da UBL - Universidade Brasileira Livre</h3>
+	<h1 align="center">Aprendizado vindo da UBL - Universidade Brasileira Livre</h1>
 <p align="center">
   	Um caminho para a educação autodidata em Ciência da Computação!
 </p>
@@ -15,7 +15,11 @@
 
 
 <!-- INTRODUÇÃO 2 -->
- 
+<p align="center">
+	<h2 align="center">INTRODUÇÃO</h2>
+	Olá, eu me chamo Guilherme e este repostório trata-se de uma organização minha em relação aos estudos sobre ciência da computação. 
+	Você __não__ encontrará explicações sobre conceitos ou qualquer outra coisa.  
+</p>
 
   
 
