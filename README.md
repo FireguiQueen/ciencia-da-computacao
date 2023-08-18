@@ -19,3 +19,11 @@
    <a href="https://www.linkedin.com/school/universidade-brasileira-livre/">
     <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
   </a>
+
+  **Organização**. O Currículo é organizado da seguinte forma:
+- **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
+- **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
+- **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
+- **Desenvolvimento Técnico**: Contêm os conteúdos que começam a desenvolver bases técnicas.
+- **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
+- **Tópicos Finais**: Conteúdos que utilizam de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
