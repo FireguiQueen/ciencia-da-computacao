@@ -19,9 +19,16 @@
 <!-- INTRODUÇÃO 2 -->
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
-	Olá, eu me chamo Guilherme e este repostório trata-se de uma organização minha em relação aos estudos sobre ciência da computação. 
+	Olá, eu me chamo Guilherme e este repostório trata-se de uma organização minha em relação aos estudos sobre ciência da computação e também sobre programação em geral. 
 	Você NÃO encontrará explicações sobre conceitos ou qualquer outra coisa.
+
 </p>
+
+<!-- CONTEÚDOS -->
+# Principais cursos aprendidos 
+- [CC50](https://github.com/FireguiQueen/CC50)
+- [Javascript: front & back](https://github.com/FireguiQueen/Javascript-Typescript--Node-Express-noSQL)
+
 
   
 
