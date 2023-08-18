@@ -13,17 +13,6 @@
   </a>
 </p>
 
-
-<!-- CONTATOS: TWITTER / LINKEDIN  -->
-<p align="center">
-  <a href="https://twitter.com/UBLivre">
-    <img alt="Twitter" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/twitter.png">
-  </a>
-	
-   <a href="https://www.linkedin.com/school/universidade-brasileira-livre/">
-    <img alt="LinkedIn" width="25" src="https://github.com/Universidade-Livre/imagens/blob/main/png/linkedin.png">
-  </a>
-
   
 
   ## Organização do currículo
