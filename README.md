@@ -66,7 +66,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 				Computação com Python I </a> 
 			</td>
 			<td> USP </td>
-			<td> 8hrs 40min </td>
+			<td> 38hrs 00min </td>
 			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
 			<td> NÃO </td>
 		</tr>
