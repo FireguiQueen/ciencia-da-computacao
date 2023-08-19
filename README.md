@@ -39,7 +39,6 @@ O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira
 usando materiais on-line e em Português do Brasil.
 Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado.
   
-
 ## Organização do currículo
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
 - **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
@@ -47,3 +46,15 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 - **Desenvolvimento Técnico**: Contêm os conteúdos que começam a desenvolver bases técnicas.
 - **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
 - **Tópicos Finais**: Conteúdos que utilizam de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
+
+
+## Formação Geral
+### Introdução à Computação
+
+<table>
+	<thead>
+		<th> Curso </th> 
+		<th> Curso </th> 
+		<th> Curso </th> 
+	</thead>
+</table>
