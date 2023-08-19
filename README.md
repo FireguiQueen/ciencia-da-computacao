@@ -19,11 +19,10 @@
 <!-- INTRODUÇÃO 2 -->
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
-	Olá, eu me chamo Guilherme e este repostório trata-se de uma organização minha em relação aos estudos sobre ciência da computação e também sobre programação em geral. 
-	Você NÃO encontrará explicações sobre conceitos ou qualquer outra coisa.
-
+	Este repositório representa a minha dedicação à exploração dos estudos relacionados à Ciência da Computação e programação em sua essência. Aqui, você não encontrará explicações detalhadas sobre conceitos específicos. No entanto, sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
 </p>
 
+</br>
 </br>
 
 <!-- CONTEÚDOS -->
