@@ -60,7 +60,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 	</thead>
 	<tbody>
 		<tr>
-			<td> Curso </td>
+			<td> [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) </td>
 			<td> Curso </td>
 			<td> Curso </td>
 			<td> Curso </td>
