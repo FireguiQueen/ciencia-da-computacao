@@ -1,6 +1,6 @@
 <!-- INTRODUÇÃO -->
 <p align="center">
-	<h1 align="center">Aprendizado vindo da UBL - Universidade Brasileira Livre</h1>
+	<h1 align="center">Aprendizado principal - Universidade Brasileira Livre</h1>
 <p align="center">
   	Um caminho para a educação autodidata em Ciência da Computação!
 </p>
@@ -23,6 +23,8 @@
 	Você NÃO encontrará explicações sobre conceitos ou qualquer outra coisa.
 
 </p>
+
+</br>
 
 <!-- CONTEÚDOS -->
 # Principais cursos aprendidos 
