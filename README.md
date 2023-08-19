@@ -59,8 +59,10 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 		<th> Concluído </th>
 	</thead>
 	<tbody>
-		<tr> Teste </tr>
-		<tr> Teste </tr>
-		<tr> Teste </tr>
+		<tr>
+			<td> Curso </td>
+			<td> Curso </td>
+			<td> Curso </td>
+		</tr>
 	</tbody>
 </table>
