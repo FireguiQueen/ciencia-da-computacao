@@ -61,7 +61,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 	<tbody>
 		<tr>
 			<td> 
-				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da 
+				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à </br> Ciência da 
 				Computação com Python I </a> 
 			</td>
 			<td> Curso </td>
