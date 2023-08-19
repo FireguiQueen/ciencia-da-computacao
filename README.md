@@ -66,7 +66,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 				Computação com Python I </a> 
 			</td>
 			<td> USP </td>
-			<td> 8hr 40min </td>
+			<td> 8hrs 40min </td>
 			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
 			<td> NÃO </td>
 		</tr>
@@ -74,8 +74,8 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> 
 				<a href="https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx">Fundamentos Matemáticos para Computação</a> 
 			</td>
-			<td> USP </td>
-			<td> 8hr 40min </td>
+			<td> YT - Prof. Douglas Maioli </td>
+			<td> 40hrs </td>
 			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
 			<td> NÃO </td>
 		</tr>
