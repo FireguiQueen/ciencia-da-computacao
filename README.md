@@ -68,7 +68,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> USP </td>
 			<td> 38hrs 00min </td>
 			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
-			<td> :large_orange_diamond: </td>
+			<td> :x: </td>
 		</tr>
 		<tr>
 			<td> 
@@ -77,7 +77,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> YT - Prof. Douglas Maioli </td>
 			<td> 40hrs 00min </td>
 			<td> Lógica Formal; PROLOG; Recursão; </br> Matrizes; Booleanos; Grafos.</td>
-			<td> NÃO </td>
+			<td> :x: </td>
 		</tr>
 		<tr>
 			<td> 
@@ -86,7 +86,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> Havard </td>
 			<td> 25hrs 00min</td>
 			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
-			<td> NÃO </td>
+			<td>:large_orange_diamond: em andamento </td>
 		</tr>
 	</tbody>
 </table>
