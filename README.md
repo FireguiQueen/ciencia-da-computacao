@@ -65,7 +65,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 				Computação com Python I </a> 
 			</td>
 			<td> 8hr 40min </td>
-			<td> Algoritmos; Lógica de Programação; </br> Python; Testes. </td>
+			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
 			<td> NÃO </td>
 		</tr>
 				<tr>
