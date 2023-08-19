@@ -29,10 +29,14 @@
 - [CC50](https://github.com/FireguiQueen/CC50)
 - [Javascript: front & back](https://github.com/FireguiQueen/Javascript-Typescript--Node-Express-noSQL)
 
+# Sumário
 
+O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
+usando materiais on-line e em Português do Brasil.
+Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado.
   
 
-  ## Organização do currículo
+## Organização do currículo
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
 - **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
 - **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
