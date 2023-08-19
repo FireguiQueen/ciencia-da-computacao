@@ -75,8 +75,8 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 				<a href="https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx">Fundamentos Matemáticos para Computação</a> 
 			</td>
 			<td> YT - Prof. Douglas Maioli </td>
-			<td> 40hrs </td>
-			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
+			<td> 40hrs 00min </td>
+			<td> Lógica Formal; PROLOG; Recursão; </br> Matrizes; Booleanos; Grafos.</td>
 			<td> NÃO </td>
 		</tr>
 		<tr>
