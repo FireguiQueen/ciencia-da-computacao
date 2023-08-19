@@ -53,9 +53,9 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 
 <table>
 	<thead>
-		<th> Curso &nbsp;&nbsp;&nbsp;&nbsp; </th> 
-		<th> Duração total&nbsp;&nbsp;&nbsp; </th> 
-		<th> Conteúdos&nbsp;&nbsp;&nbsp; </th> 
+		<th> Curso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th> 
+		<th> Duração total&nbsp;&nbsp;&nbsp;&nbsp; </th> 
+		<th> Conteúdos&nbsp;&nbsp;&nbsp;&nbsp; </th> 
 		<th> Concluído </th>
 	</thead>
 	<tbody>
