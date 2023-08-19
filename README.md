@@ -68,7 +68,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> USP </td>
 			<td> 38hrs 00min </td>
 			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
-			<td> NÃO </td>
+			<td> :large_orange_diamond: </td>
 		</tr>
 		<tr>
 			<td> 
