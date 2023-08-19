@@ -28,9 +28,11 @@
 </br>
 
 <!-- CONTEÚDOS -->
-# Principais cursos aprendidos 
+## Conteúdos vindos deste curso. 
 - [CC50](https://github.com/FireguiQueen/CC50)
-- [Javascript: front & back](https://github.com/FireguiQueen/Javascript-Typescript--Node-Express-noSQL)
+
+### Cursos feitos por mim voltados ao mercado
+- [Javascript: front & back-end](https://github.com/FireguiQueen/Javascript-Typescript--Node-Express-noSQL)
 
 # Sumário
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
