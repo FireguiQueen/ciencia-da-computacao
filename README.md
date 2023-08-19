@@ -70,29 +70,44 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
 			<td> NÃO </td>
 		</tr>
-				<tr>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
+		<tr>
+			<td> 
+				<a href="https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx">Fundamentos Matemáticos para Computação</a> 
+			</td>
+			<td> USP </td>
+			<td> 8hr 40min </td>
+			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
+			<td> NÃO </td>
 		</tr>
-				<tr>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
+		<tr>
+			<td> 
+				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da</br> 
+				Computação com Python I </a> 
+			</td>
+			<td> USP </td>
+			<td> 8hr 40min </td>
+			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
+			<td> NÃO </td>
 		</tr>
-				<tr>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
+		<tr>
+			<td> 
+				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da</br> 
+				Computação com Python I </a> 
+			</td>
+			<td> USP </td>
+			<td> 8hr 40min </td>
+			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
+			<td> NÃO </td>
 		</tr>
-				<tr>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
+		<tr>
+			<td> 
+				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da</br> 
+				Computação com Python I </a> 
+			</td>
+			<td> USP </td>
+			<td> 8hr 40min </td>
+			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
+			<td> NÃO </td>
 		</tr>
 	</tbody>
 </table>
