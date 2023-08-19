@@ -28,10 +28,10 @@
 </br>
 
 <!-- CONTEÚDOS -->
-## Conteúdos vindos deste curso. 
+## Conteúdos vindos deste curso 
 - [CC50](https://github.com/FireguiQueen/CC50)
 
-### Cursos feitos por mim voltados ao mercado
+#### Cursos feitos por mim voltados ao mercado
 - [Javascript: front & back-end](https://github.com/FireguiQueen/Javascript-Typescript--Node-Express-noSQL)
 
 # Sumário
