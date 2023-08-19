@@ -32,7 +32,6 @@
 - [Javascript: front & back](https://github.com/FireguiQueen/Javascript-Typescript--Node-Express-noSQL)
 
 # Sumário
-
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
 usando materiais on-line e em Português do Brasil.
 Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado.
