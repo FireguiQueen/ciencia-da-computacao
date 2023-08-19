@@ -19,7 +19,9 @@
 <!-- INTRODUÇÃO 2 -->
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
-	Este repositório representa a minha dedicação à exploração dos estudos relacionados à Ciência da Computação e programação em sua essência. Aqui, você não encontrará explicações detalhadas sobre conceitos específicos. No entanto, sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
+	<p align="center">
+		Este repositório representa a minha dedicação à exploração dos estudos relacionados à Ciência da Computação e programação em sua essência. Aqui, você não encontrará explicações detalhadas sobre conceitos específicos. No entanto, sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
+	</p>
 </p>
 
 </br>
