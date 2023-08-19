@@ -54,7 +54,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 <table>
 	<thead>
 		<th> Curso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th> 
-		<th> Duração total&nbsp;&nbsp;&nbsp;&nbsp; </th> 
+		<th> Duração aproximada&nbsp;&nbsp;&nbsp;&nbsp; </th> 
 		<th> Conteúdos&nbsp;&nbsp;&nbsp;&nbsp; </th> 
 		<th> Concluído </th>
 	</thead>
@@ -64,9 +64,9 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da</br> 
 				Computação com Python I </a> 
 			</td>
-			<td> Curso </td>
-			<td> Curso </td>
-			<td> Curso </td>
+			<td> 8hr 40min </td>
+			<td> Algoritmos; Lógica de Programação; </br> Python; Testes. </td>
+			<td> NÃO </td>
 		</tr>
 				<tr>
 			<td> Curso </td>
