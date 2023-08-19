@@ -81,33 +81,13 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 		</tr>
 		<tr>
 			<td> 
-				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da</br> 
-				Computação com Python I </a> 
+				<a href="https://www.estudarfora.org.br/cursos/cc50/">Ciência da Computação 50 (CC50) </a> 
 			</td>
-			<td> USP </td>
-			<td> 8hr 40min </td>
-			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
+			<td> Havard </td>
+			<td> 25hrs 00min</td>
+			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
 			<td> NÃO </td>
 		</tr>
 		<tr>
-			<td> 
-				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da</br> 
-				Computação com Python I </a> 
-			</td>
-			<td> USP </td>
-			<td> 8hr 40min </td>
-			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
-			<td> NÃO </td>
-		</tr>
-		<tr>
-			<td> 
-				<a href="https://www.coursera.org/learn/ciencia-computacao-python-conceitos">Introdução à Ciência da</br> 
-				Computação com Python I </a> 
-			</td>
-			<td> USP </td>
-			<td> 8hr 40min </td>
-			<td> Algoritmos; Lógica de </br>Programação;  Python; Testes. </td>
-			<td> NÃO </td>
-		</tr>
 	</tbody>
 </table>
