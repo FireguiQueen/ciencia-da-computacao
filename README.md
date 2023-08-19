@@ -87,6 +87,6 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> 25hrs 00min</td>
 			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
 			<td> NÃO </td>
-		<tr>
+		</tr>
 	</tbody>
 </table>
