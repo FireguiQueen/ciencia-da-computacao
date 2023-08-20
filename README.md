@@ -93,7 +93,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 				<a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">Circuitos Digitais</a> 
 			</td>
 			<td> UFFS</td>
-			<td> </td>
+			<td> 28hrs 00min </td>
 			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
