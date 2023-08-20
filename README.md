@@ -83,9 +83,18 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> 
 				<a href="https://www.estudarfora.org.br/cursos/cc50/">Ciência da Computação 50 (CC50) </a> 
 			</td>
-			<td> Havard </td>
+			<td> Universidade de Havard </td>
 			<td> 25hrs 00min</td>
 			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
+			<td>:large_orange_diamond: em andamento </td>
+		</tr>
+			<tr>
+			<td> 
+				<a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">Circuitos Digitais</a> 
+			</td>
+			<td> UFFS</td>
+			<td> </td>
+			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
 	</tbody>
