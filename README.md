@@ -20,7 +20,7 @@
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
 	<p align="center">
-		Este repositório diz respeito à minha dedicação aos estudos relacionados à Ciência da Computação e programação em geral. Aqui, você não encontrará explicações detalhadas sobre conceitos específicos. No entanto, sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria. Além disso, esteja à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; - [mais informações](#formaçãogeral).
+		Este repositório diz respeito à minha dedicação aos estudos relacionados à Ciência da Computação e programação em geral. Aqui, você não encontrará explicações detalhadas sobre conceitos específicos. No entanto, sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria. Além disso, esteja à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; - <a href="#formacaogeral">mais informações </a>.
 	</p>
 </p>
 
@@ -48,7 +48,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 - **Tópicos Finais**: Conteúdos que utilizam de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
 
 
-## Formação Geral
+## Formação Geral  <a name="formacaogeral"></a>
 ### Introdução à Computação
 
 <table>
