@@ -53,7 +53,7 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 
 <table>
 	<thead>
-		<th> <h3> Curso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       </h3> </th> 
+		<th> <h3> Curso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	      </h3> </th> 
 		<th> <h3> Entidade de Ensino&nbsp;&nbsp;&nbsp;&nbsp; </h3> </th>
 		<th> <h3> Duração aproximada&nbsp;&nbsp;&nbsp;&nbsp; </h3> </th> 
 		<th> <h3> Conteúdos&nbsp;&nbsp;&nbsp;&nbsp;          </h3> </th> 
