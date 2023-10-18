@@ -69,6 +69,8 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> Lógica Formal; PROLOG; Recursão; </br> Matrizes; Booleanos; Grafos.</td>
 			<td> :x: </td>
 		</tr>
+
+ 
 		<tr>
 			<td> 
 				<a href="https://www.estudarfora.org.br/cursos/cc50/">Ciência da Computação 50 (CC50) </a> 
@@ -87,5 +89,18 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
+
+
+		</tr>
+			<tr>
+			<td> 
+				<a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">Circuitos Digitais</a> 
+			</td>
+			<td> UFFS</td>
+			<td> 28hrs 00min </td>
+			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
+			<td>:large_orange_diamond: em andamento </td>
+		</tr>
+ 
 	</tbody>
 </table>
