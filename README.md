@@ -20,7 +20,7 @@
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
 	<p align="center">
-		Este repositório é inspirado no repositório da UBL (Universidade Brasileira Livre). Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto 		o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
+		Este repositório é um "fork" do repositório da UBL (Universidade Brasileira Livre), no qual realizei algumas modificações de acordo com meus interesses 	pessoais. . Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
 		Fique à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>).
 	</p>
 </p>
@@ -32,13 +32,9 @@
 ### Repositórios relacionados 
 - [CS50](https://github.com/FireguiQueen/CS50)
 
-#### Cursos feitos por mim _(não fazem parte da grade curricular)_.
-- [Javascript: front & back-end](https://github.com/FireguiQueen/Javascript-Typescript--Node-Express-noSQL)
-
 # Sumário
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
-usando materiais on-line e em Português do Brasil.
-Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado.
+usando materiais on-line e em Português do Brasil. Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado. Por contra partida, eu adicionei cursos do meu interesse, como um de Java, por exemplo. Mas eu ainda sigo a regra, todos os cursos adicionados por mim também são gratuitos. 
   
 ## Organização do currículo
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
