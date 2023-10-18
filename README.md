@@ -1,8 +1,8 @@
 <!-- INTRODUÇÃO -->
 <p align="center">
-	<h1 align="center">Aprendizado principal - Universidade Brasileira Livre</h1>
+	<h1 align="center">Ciêcia da computação</h1>
 <p align="center">
-  	Um caminho para a educação autodidata em Ciência da Computação!
+  	Um repositório para a educação autodidata em Ciência da Computação!
 </p>
 <p align="center">
   	<a href="https://github.com/sindresorhus/awesome">
@@ -20,7 +20,7 @@
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
 	<p align="center">
-		Este repositório diz respeito à minha dedicação aos estudos relacionados à Ciência da Computação e programação em geral. Aqui, você não encontrará explicações detalhadas sobre conceitos específicos. No entanto, sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria. Além disso, esteja à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>).
+		Este repositório é inspirado no repositório da UBL (Universidade Brasileira Livre). Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria. Além disso, esteja à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>).
 	</p>
 </p>
 
