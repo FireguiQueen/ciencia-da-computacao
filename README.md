@@ -34,7 +34,7 @@
 
 # Sumário
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
-usando materiais on-line e em Português do Brasil. Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado. Por contra partida, eu adicionei cursos do meu interesse, como um de Java, por exemplo. Mas eu ainda sigo a regra, todos os cursos adicionados por mim também são gratuitos. 
+usando materiais on-line e em Português do Brasil. Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado. Em contrapartida, adicionei cursos de meu interesse, como um de Java, por exemplo. No entanto, mantenho a premissa de que todos os cursos que incluí também são gratuitos.
   
 ## Organização do currículo
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
