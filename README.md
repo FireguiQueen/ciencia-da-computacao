@@ -62,7 +62,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 				<a href="https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx">Fundamentos Matemáticos para Computação</a> 
 			</td>
 			<td> YT - Prof. Douglas Maioli </td>
-			<td> 40hrs 00min </td>
+			<td> 40hrs </td>
 			<td> Lógica Formal; PROLOG; Recursão; </br> Matrizes; Booleanos; Grafos.</td>
 			<td> :x: </td>
 		</tr>
@@ -71,7 +71,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 				<a href="https://www.estudarfora.org.br/cursos/cc50/">Ciência da Computação 50 (CC50) </a> 
 			</td>
 			<td> Havard </td>
-			<td> 25hrs 00min</td>
+			<td> 25hr</td>
 			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
@@ -80,7 +80,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 				<a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">Circuitos Digitais</a> 
 			</td>
 			<td> UFFS</td>
-			<td> 28hrs 00min </td>
+			<td> 28hr </td>
 			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
@@ -90,7 +90,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 				<a href="https://loiane.training/continuar-curso/java-basico">Java</a> 
 			</td>
 			<td>  loiane.training </td>
-			<td> 23hrs 00min </td>
+			<td> 23hr </td>
 			<td> .. </td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
