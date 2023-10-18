@@ -90,11 +90,11 @@ Esse Curso não é pensado para treinamento em tecnologias específicas ou focad
 		</tr>
 			<tr>
 			<td> 
-				<a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">Circuitos Digitais</a> 
+				<a href="https://loiane.training/continuar-curso/java-basico">Java</a> 
 			</td>
-			<td> UFFS</td>
+			<td>  loiane.training </td>
 			<td> 28hrs 00min </td>
-			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
+			<td> .. </td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
 	</tbody>
