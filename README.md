@@ -20,7 +20,7 @@
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
 	<p align="center">
-		Este repositório é um "fork" do repositório da UBL (Universidade Brasileira Livre), no qual realizei algumas modificações de acordo com meus interesses 	pessoais. . Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
+		Este repositório é um "fork" do repositório da UBL (Universidade Brasileira Livre), no qual realizei algumas modificações de acordo com meus interesses 	  		pessoais. Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
 		Fique à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>).
 	</p>
 </p>
