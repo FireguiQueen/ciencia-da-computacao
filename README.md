@@ -89,9 +89,9 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> 
 				<a href="https://loiane.training/continuar-curso/java-basico">Java</a> 
 			</td>
-			<td>  loiane.training </td>
-			<td> 23hr </td>
-			<td> .. </td>
+			<td>  De aluno para Aluno </td>
+			<td> 8hr </td>
+			<td> Java, POO </td>
 			<td>:large_orange_diamond: em andamento </td>
 		</tr>
 	</tbody>
