@@ -61,7 +61,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> 
 				<a href="https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx">Fundamentos Matemáticos para Computação</a> 
 			</td>
-			<td> YT - Prof. Douglas Maioli </td>
+			<td> Douglas Maioli </td>
 			<td> 40hr </td>
 			<td> Lógica Formal; PROLOG; Recursão; </br> Matrizes; Booleanos; Grafos.</td>
 			<td> :x: </td>
