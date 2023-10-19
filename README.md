@@ -54,7 +54,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 		<th> <h3> Entidade de Ensino&nbsp;&nbsp;&nbsp;&nbsp; </h3> </th>
 		<th> <h3> Duração aproximada&nbsp;&nbsp;&nbsp;&nbsp; </h3> </th> 
 		<th> <h3> Conteúdos&nbsp;&nbsp;&nbsp;&nbsp;          </h3> </th> 
-		<th> <h3> Concluído                                  </h3> </th>
+<!-- 		<th> <h3> Concluído                                  </h3> </th> -->
 	</thead>
 	<tbody>
 		<tr>
@@ -64,7 +64,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> Douglas Maioli </td>
 			<td> 40hr </td>
 			<td> Lógica Formal; PROLOG; Recursão; </br> Matrizes; Booleanos; Grafos.</td>
-			<td> :x: </td>
+<!-- 			<td> :x: </td> -->
 		</tr>
 		<tr>
 			<td> 
@@ -73,7 +73,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> Havard </td>
 			<td> 25hr</td>
 			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
-			<td>:large_orange_diamond: em andamento </td>
+<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 			<tr>
 			<td> 
@@ -82,7 +82,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> UFFS</td>
 			<td> 28hr </td>
 			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
-			<td>:large_orange_diamond: em andamento </td>
+<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		</tr>
 			<tr>
@@ -92,7 +92,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td>  De aluno para Aluno </td>
 			<td> 8hr </td>
 			<td> Java, POO </td>
-			<td>:large_orange_diamond: em andamento </td>
+<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 	</tbody>
 </table>
