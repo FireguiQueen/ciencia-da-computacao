@@ -31,6 +31,7 @@
 <!-- CONTEÚDOS -->
 ### Repositórios relacionados 
 - [CS50](https://github.com/FireguiQueen/CS50)
+- [Java](https://github.com/FireguiQueen/Java) _(todos os cursos de java estão aqui)_
 
 # Sumário
 O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
