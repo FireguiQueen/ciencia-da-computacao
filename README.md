@@ -76,7 +76,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
-			<tr>
+		<tr>
 			<td> 
 				<a href="https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf">Circuitos Digitais</a> 
 			</td>
@@ -85,8 +85,16 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
+		<tr>
+			<td> 
+				<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Java</a> 
+			</td>
+			<td> De aluno para Aluno </td>
+			<td> 8hr </td>
+			<td> Java, POO </td>
+<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
-			<tr>
+		<tr>
 			<td> 
 				<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Java</a> 
 			</td>
