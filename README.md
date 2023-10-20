@@ -87,7 +87,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 		</tr>
 		<tr>
 			<td> 
-				<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Java</a> 
+				<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Java Básico I</a> 
 			</td>
 			<td> De aluno para Aluno </td>
 			<td> 8hr </td>
@@ -96,7 +96,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 		</tr>
 		<tr>
 			<td> 
-				<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Java</a> 
+				<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Java Básico II</a> 
 			</td>
 			<td> Loiane </td>
 			<td> 32hr </td>
