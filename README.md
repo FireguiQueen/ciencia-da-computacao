@@ -45,6 +45,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 - **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
 - **Tópicos Finais**: Conteúdos que utilizam de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
 
+</br>
 
 ## Formação Geral  <a name="formacaogeral"></a>
 ### Introdução à Computação
