@@ -61,7 +61,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 	<tbody>
 		<tr>
 			<td> 
-				<a href="https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx">Fundamentos Matemáticos para Computação</a> 
+				<a href="https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx"> Fundamentos Matemáticos para Computação </a> 
 			</td>
 			<td> Douglas Maioli </td>
 			<td> 40hr </td>
@@ -98,6 +98,15 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 		<tr>
 			<td> 
 				<a href="https://loiane.training/continuar-curso/java-basico">Java Básico II</a> 
+			</td>
+			<td> Loiane </td>
+			<td> 32hr </td>
+			<td> Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, interfaces..); Exceptions </td>
+<!-- 			<td>:large_orange_diamond: em andamento </td> -->
+		</tr>
+		<tr>
+			<td> 
+				<a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java Básico II </a> 
 			</td>
 			<td> Loiane </td>
 			<td> 32hr </td>
