@@ -91,16 +91,16 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			</td>
 			<td> De aluno para Aluno </td>
 			<td> 8hr </td>
-			<td> Java, POO </td>
+			<td> Java; POO </td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
 			<td> 
 				<a href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g">Java</a> 
 			</td>
-			<td> De aluno para Aluno </td>
-			<td> 8hr </td>
-			<td> Java, POO </td>
+			<td> Loiane </td>
+			<td> 32hr </td>
+			<td> Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, interfaces..); Exceptions </td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 	</tbody>
