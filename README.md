@@ -74,7 +74,9 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			</td>
 			<td> Havard </td>
 			<td> 25hr</td>
-			<td> Sistemas Operacionais; Redes; Arquivos; C; JS. </td>
+			<td> 
+				Sistemas Operacionais; Redes; Arquivos; C; JS. 
+			</td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
@@ -83,7 +85,9 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			</td>
 			<td> UFFS</td>
 			<td> 28hr </td>
-			<td> Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.</td>
+			<td> 
+				Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.
+			</td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
@@ -92,7 +96,9 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			</td>
 			<td> De aluno para Aluno </td>
 			<td> 8hr </td>
-			<td> Java; POO </td>
+			<td> 
+				Java; POO. 
+			</td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
@@ -101,16 +107,20 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			</td>
 			<td> Loiane </td>
 			<td> 32hr </td>
-			<td> Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, interfaces..); Exceptions </td>
+			<td>
+				Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, 					interfaces..); Exceptions. 
+			</td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
 			<td> 
 				<a href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"> Java Básico II </a> 
 			</td>
-			<td> Loiane </td>
-			<td> 32hr </td>
-			<td> Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, interfaces..); Exceptions </td>
+			<td> William Suane </td>
+			<td> 47hr </td>
+			<td> 
+				Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, 					interfaces..); Exceptions +..
+			</td>
 <!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 	</tbody>
