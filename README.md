@@ -1,13 +1,11 @@
 <!-- INTRODUÇÃO -->
 <p align="center">
 	<h1 align="center">Ciêcia da computação</h1>
+<p align="center"> Um repositório para a educação autodidata em Ciência da Computação! </p>
 <p align="center">
-  	Um repositório para a educação autodidata em Ciência da Computação!
-</p>
-<p align="center">
-  	<a href="https://github.com/sindresorhus/awesome">
-    		<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-  	</a>
+  	<a href="https://github.com/sindresorhus/awesome"> 
+		<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> 
+	</a>
   	<a href="https://github.com/ossu/computer-science">
 		<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   	</a>
@@ -19,10 +17,7 @@
 <!-- INTRODUÇÃO 2 -->
 <p align="center">
 	<h2 align="center">INTRODUÇÃO</h2>
-	<p align="center">
-		Este repositório é um "fork" do repositório da UBL (Universidade Brasileira Livre), no qual realizei algumas modificações de acordo com meus interesses 	  		pessoais. Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria.
-		Fique à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>).
-	</p>
+	<p> Este repositório é um "fork" do repositório da UBL (Universidade Brasileira Livre), no qual realizei algumas modificações de acordo com meus interesses pessoais. Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria. Fique à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>). </p>
 </p>
 
 </br>
