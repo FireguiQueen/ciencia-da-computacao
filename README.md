@@ -46,11 +46,11 @@ _____
 # Formação Geral  <a name="formacaogeral"> </a>
 
 ## _Introdução à Computação_
-|                                                                 Curso                                                                 | Entidade de ensino <br>/ instrutor           | Duração |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------|:-------:|
-| [Fundamentos matemáticos <br> para a computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | Prof. Douglas Maioli                         |   40h   |
-|                               [Computer Science 50 (CS50)](https://www.estudarfora.org.br/cursos/cc50/)                               | Harvard College                              |   25h   |
-|                    [Circuitos digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                     | Universidade federal da Fronteira Sul (UFFS) |   28h   |
+|                                                                 Curso                                                                 | Entidade de ensino <br>/ instrutor          | Duração |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------|:-------:|
+| [Fundamentos matemáticos <br> para a computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | Prof. Douglas Maioli                        |   40h   |
+|                               [Computer Science 50 (CS50)](https://www.estudarfora.org.br/cursos/cc50/)                               | Harvard College                             |   25h   |
+|                    [Circuitos digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                     | UFFS                                        |   28h   |
 
 
 <br>
