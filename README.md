@@ -41,9 +41,11 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 
 <br>
 
-## Formação Geral  <a name="formacaogeral"> </a>
+_____
 
-### Introdução à _Computação_
+# Formação Geral  <a name="formacaogeral"> </a>
+
+## _Introdução à Computação_
 |                                                                 Curso                                                                 | Entidade de ensino <br>/ instrutor           | Duração |
 |:-------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------|:-------:|
 | [Fundamentos matemáticos <br> para a computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | Prof. Douglas Maioli                         |   40h   |
@@ -51,7 +53,9 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 |                    [Circuitos digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                     | Universidade federal da Fronteira Sul (UFFS) |   28h   |
 
 
-### Trilha de Aprendizado Java
+## _Back-end_
+
+### Java
 |                                                       Curso                                                       | Entidade de ensino <br>/ instrutor                |  Duração  |
 |:-----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------|:---------:|
 |           [Programar em java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g)           | De Aluno Para Aluno                               | 7h 40min  |
