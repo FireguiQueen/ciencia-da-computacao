@@ -53,6 +53,8 @@ _____
 |                    [Circuitos digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                     | Universidade federal da Fronteira Sul (UFFS) |   28h   |
 
 
+<br>
+
 ## _Back-end_
 
 ### Java
