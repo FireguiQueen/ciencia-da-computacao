@@ -58,13 +58,15 @@ _____
 ## _Back-end_
 
 ### Java
-|                                                       Curso                                                       | Entidade de ensino <br>/ instrutor             |  Duração  |
-|:-----------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------|:---------:|
-|           [Programar em java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g)           | De Aluno Para Aluno                            | 7h 40min  |
-| [Java virado no Jiraya](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=Put9Ybz5emDFV7N9) | DevDojo                                        | 46h 50min |
-|              [Java Básico](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)              | Loiane.trainning                               | 31h 52min |
-|             [Java Módulo 2](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)             | Loiane.trainning                               | 8h 56min  |
-| [Estrutura de Dados e Algoritmos Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)  | Loiane.trainning                        &nbsp; | 8h 18min  |
+|                                                       Curso                                                       | Entidade de ensino <br>/ instrutor |  Duração  |
+|:-----------------------------------------------------------------------------------------------------------------:|:-----------------------------------|:---------:|
+|           [Programar em java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g)           | De Aluno Para Aluno                | 7h 40min  |
+| [Java virado no Jiraya](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=Put9Ybz5emDFV7N9) | DevDojo                            | 46h 50min |
+|              [Java Básico](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)              | Loiane.trainning                   | 31h 52min |
+|             [Java Módulo 2](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)             | Loiane.trainning                   | 8h 56min  |
+| [Estrutura de Dados e Algoritmos Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)  | Loiane.trainning                   | 8h 18min  | 
+|      [Spring Boot Essentials II](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)        | DevDojo                            | 8h 27min  |
+
 
 <!-- 
 <table>
