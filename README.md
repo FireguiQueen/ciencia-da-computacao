@@ -2,6 +2,7 @@
 <p align="center">
 	<h1 align="center">Ciêcia da computação</h1>
 <p align="center"> Um repositório para a educação autodidata em Ciência da Computação! </p>
+
 <p align="center">
   	<a href="https://github.com/sindresorhus/awesome"> 
 		<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> 
@@ -11,8 +12,10 @@
   	</a>
 </p>
 
-</br>
-</br>
+______
+
+<br>
+<br>
 
 <!-- INTRODUÇÃO 2 -->
 <p align="center">
@@ -20,8 +23,8 @@
 	<p> Este repositório é um "fork" do repositório da UBL (Universidade Brasileira Livre), no qual realizei algumas modificações de acordo com meus interesses pessoais. Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria. Fique à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>). </p>
 </p>
 
-</br>
-</br>
+<br>
+<br>
 
 <!-- CONTEÚDOS -->
 ### Repositórios relacionados 
@@ -34,24 +37,36 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
   
 ## Organização do currículo
 - **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
-- **Aprofundamento de Conceitos Introdutórios**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios.
-- **Desenvolvimento Teórico**: Contêm os conteúdos que servem como base para a construção de bases teóricas.
-- **Desenvolvimento Técnico**: Contêm os conteúdos que começam a desenvolver bases técnicas.
-- **Aprofundamento Técnico**: Contêm os conteúdos que utilizam as bases teóricas e técnicas para construir fundamentos práticos.
-- **Tópicos Finais**: Conteúdos que utilizam de todo conhecimento adquirido nos tópicos anteriores para técnicas avançadas de computação.
+- **Introdução a linguagem java**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios de java.
 
-</br>
+<br>
 
-## Formação Geral  <a name="formacaogeral"></a>
-### Introdução à Computação
+## Formação Geral  <a name="formacaogeral"> </a>
 
+### Introdução à _Computação_
+|                                                                 Curso                                                                 | Entidade de ensino <br>/ instrutor           | Duração |
+|:-------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------|:-------:|
+| [Fundamentos matemáticos <br> para a computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | Prof. Douglas Maioli                         |   40h   |
+|                               [Computer Science 50 (CS50)](https://www.estudarfora.org.br/cursos/cc50/)                               | Harvard College                              |   25h   |
+|                    [Circuitos digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                     | Universidade federal da Fronteira Sul (UFFS) |   28h   |
+
+
+### Trilha de Aprendizado Java
+|                                                            Curso                                                             | Entidade de ensino <br>/ instrutor |  Duração  |
+|:----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------|:---------:|
+|                [Programar em java](https://www.youtube.com/playlist?list=PLa75BYTPDNKZLzk3xG-gSXSU_AAq5RP4g)                 | De Aluno Para Aluno                | 7h 40min  |
+|      [Java virado no Jiraya](https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&si=Put9Ybz5emDFV7N9)       | DevDojo                            | 46h 50min |
+|                   [Java Básico](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                    | Loiane.trainning                   | 31h 52min |
+|    [Java Módulo 2](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                                 | Loiane.trainning                   | 8h 56min  |
+|    [Estrutura de Dados e Algoritmos Java](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)                                 | Loiane.trainning                   | 8h 18min  |
+
+<!-- 
 <table>
 	<thead>
 		<th> <h3> Curso &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	      </h3> </th> 
 		<th> <h3> Entidade de Ensino&nbsp;&nbsp;&nbsp;&nbsp; </h3> </th>
 		<th> <h3> Duração aproximada&nbsp;&nbsp;&nbsp;&nbsp; </h3> </th> 
 		<th> <h3> Conteúdos&nbsp;&nbsp;&nbsp;&nbsp;          </h3> </th> 
-<!-- 		<th> <h3> Concluído                                  </h3> </th> -->
 	</thead>
 	<tbody>
 		<tr>
@@ -61,7 +76,6 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> Douglas Maioli </td>
 			<td> 40hr </td>
 			<td> Lógica Formal; PROLOG; Recursão; </br> Matrizes; Booleanos; Grafos.</td>
-<!-- 			<td> :x: </td> -->
 		</tr>
 		<tr>
 			<td> 
@@ -72,7 +86,6 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> 
 				Sistemas Operacionais; Redes; Arquivos; C; JS. 
 			</td>
-<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
 			<td> 
@@ -83,7 +96,6 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> 
 				Portas Lógicas; Diagramas; Máquinas de Estado; Projeto de Circuitos.
 			</td>
-<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
 			<td> 
@@ -94,7 +106,6 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> 
 				Java; POO. 
 			</td>
-<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
 			<td> 
@@ -105,7 +116,6 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td>
 				Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, 					interfaces..); Exceptions. 
 			</td>
-<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 		<tr>
 			<td> 
@@ -116,7 +126,7 @@ usando materiais on-line e em Português do Brasil. Esse Curso não é pensado p
 			<td> 
 				Java; Lógica de progrmação; POO (classe, atributos, métodos, get e set, herança, polimorfismo, 					interfaces..); Exceptions +..
 			</td>
-<!-- 			<td>:large_orange_diamond: em andamento </td> -->
 		</tr>
 	</tbody>
 </table>
+-->
