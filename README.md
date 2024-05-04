@@ -1,32 +1,18 @@
 
 ![cs1](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/731d3e76-02d6-43ab-b8f4-c6bcb2361e6f)
 
-______
+# Introdução
+Este repositório foi criado com base no repositório da UBL (Universidade Brasileira Livre). Sinta-se à vontade para explorar o conhecimento que 
 
 <br>
-<br>
 
-<!-- INTRODUÇÃO 2 -->
-<p align="center">
-	<h2 align="center">INTRODUÇÃO</h2>
-	<p> Este repositório é um "fork" do repositório da UBL (Universidade Brasileira Livre), no qual realizei algumas modificações de acordo com meus interesses pessoais. Sinta-se à vontade para explorar o conhecimento que adquiri ao seguir tanto o currículo da UBL quanto outros cursos que escolhi por iniciativa própria. Fique à vontade para verificar se algum curso é do seu interesse (todos são gratuitos; <a href="#formacaogeral">[...]</a>). </p>
-</p>
-
-<br>
-<br>
-
-<!-- CONTEÚDOS -->
-### Repositórios relacionados 
-- [CS50](https://github.com/FireguiQueen/CS50)
-- [Java](https://github.com/FireguiQueen/Java) _(todos os cursos de java estão aqui)_
 
 # Sumário
-O Curso de Ciência da Computação oferecido pela Universidade Livre Brasileira é **uma educação completa em Ciência da Computação** 
-usando materiais on-line e em Português do Brasil. Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado. Em contrapartida, adicionei cursos de meu interesse, como um de Java, por exemplo. No entanto, mantenho a premissa de que todos os cursos que incluí também são gratuitos.
+Todos os cursos encontrados neste repositório usando materiais on-line e em Português do Brasil. Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado. Em contrapartida, adicionei cursos de meu interesse, como um de Java, por exempl
   
 ## Organização do currículo
-- **Introdução a Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
-- **Introdução a linguagem java**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios de java.
+- **Introdução à Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
+- **Introdução à Redes**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios de java.
 
 <br>
 
