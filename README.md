@@ -1,5 +1,5 @@
 
-![Computer](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/6a3bce27-2c25-4233-952d-474c9ffb9eab)
+![cs](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/76331ab1-c046-4fdb-afe7-76d8b8117366)
 
 ______
 
