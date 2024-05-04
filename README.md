@@ -1,7 +1,7 @@
 
 ![cs1](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/731d3e76-02d6-43ab-b8f4-c6bcb2361e6f)
 
-# Introdução
+# Introdução :wave:
 Este repositório foi criado com base no repositório da UBL (Universidade Brasileira Livre). Sinta-se à vontade para explorar o conhecimento que 
 
 <br>
