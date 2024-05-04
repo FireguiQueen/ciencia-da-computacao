@@ -1,9 +1,5 @@
-<!-- INTRODUÇÃO -->
-<p align="center">
-	<h1 align="center">Ciêcia da computação</h1>
-<p align="center"> Um repositório para a educação autodidata em Ciência da Computação! </p>
 
-![Computer](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/a8b2a0a6-48b5-4918-a0c6-7a156692b1f2)
+![Computer](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/6a3bce27-2c25-4233-952d-474c9ffb9eab)
 
 ______
 
