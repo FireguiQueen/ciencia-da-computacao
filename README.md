@@ -3,14 +3,7 @@
 	<h1 align="center">Ciêcia da computação</h1>
 <p align="center"> Um repositório para a educação autodidata em Ciência da Computação! </p>
 
-<p align="center">
-  	<a href="https://github.com/sindresorhus/awesome"> 
-		<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> 
-	</a>
-  	<a href="https://github.com/ossu/computer-science">
-		<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  	</a>
-</p>
+![Computer](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/a8b2a0a6-48b5-4918-a0c6-7a156692b1f2)
 
 ______
 
