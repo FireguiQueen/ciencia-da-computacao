@@ -23,5 +23,5 @@ _____
 <br>
 
 ## __Linguagens de programação__
-+ <h3>__Java__ </h3>
++ <h3> Java </h3>
 
