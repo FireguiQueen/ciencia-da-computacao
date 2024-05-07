@@ -2,15 +2,13 @@
 ![cs1](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/731d3e76-02d6-43ab-b8f4-c6bcb2361e6f)
 
 # Introdução :wave:
-Este repositório foi criado com base no repositório da UBL (Universidade Brasileira Livre). Sinta-se à vontade para explorar o conhecimento que 
+Este repositório de ciência da computação reune todos os meus outros repositórios relacionados a computação. 
 
 <br>
 
-
 # Sumário
-Todos os cursos encontrados neste repositório usando materiais on-line e em Português do Brasil. Esse Curso não é pensado para treinamento em tecnologias específicas ou focado em habilidades profissionais direcionadas ao mercado. Em contrapartida, adicionei cursos de meu interesse, como um de Java, por exempl
-  
-## Organização do currículo
+Todos os repositórios encontrados aqui utilizam apenas materias online. 
+
 - **Introdução à Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
 - **Introdução à Redes**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios de java.
 
@@ -21,16 +19,10 @@ _____
 # Formação Geral  <a name="formacaogeral"> </a>
 
 ## _Introdução à Computação_
-|                                                                 Curso                                                                 | Entidade de ensino <br>/ instrutor          | Duração |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------|:-------:|
-| [Fundamentos matemáticos <br> para a computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | Prof. Douglas Maioli                        |   40h   |
-|                               [Computer Science 50 (CS50)](https://www.estudarfora.org.br/cursos/cc50/)                               | Harvard College                             |   25h   |
-|                    [Circuitos digitais](https://www.youtube.com/playlist?list=PLXyWBo_coJnMYO9Na3t-oYsc2X4kPJBWf)                     | UFFS                                        |   28h   |
-
 
 <br>
 
-## _Back-end_
+## __Linguagens de programação_
 
 ### Java
 |                                                       Curso                                                       | Entidade de ensino <br>/ instrutor |  Duração  |
