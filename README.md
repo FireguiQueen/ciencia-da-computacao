@@ -10,7 +10,7 @@ Este repositório de ciência da computação reune todos os meus outros reposit
 Todos os repositórios encontrados aqui utilizam apenas materias online. 
 
 - **Introdução à Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
-- **Introdução à Redes**: Contêm os conteúdos que começam a aprofundar os conceitos introdutórios de java.
+- **Linguagens de programação: Java**: Contêm os conteúdos que vão desde o básico até o avançado sobre a linguagem. Contendo também subdiretórios de tecnologias relacionadas a java. 
 
 <br>
 
