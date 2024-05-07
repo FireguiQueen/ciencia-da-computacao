@@ -23,6 +23,5 @@ _____
 <br>
 
 ## __Linguagens de programação__
-
-### + Java
++ __Java__
 
