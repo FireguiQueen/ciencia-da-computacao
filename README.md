@@ -18,7 +18,8 @@ _____
 
 # Formação Geral  <a name="formacaogeral"> </a>
 
-## _Introdução à Computação_
+## __Introdução à computação__
++ ### [CS50](https://github.com/FireguiQueen/CS50)
 
 <br>
 
