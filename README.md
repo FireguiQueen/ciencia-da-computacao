@@ -20,6 +20,8 @@ _____
   
 <a href="https://github.com/FireguiQueen/CS50"> ![CS50](https://img.shields.io/badge/course-Harvard's%20computer%20science%20fifty-2ea44f?style=for-the-badge) </a>
 
+<a href="https://github.com/FireguiQueen/CS50"> ![HCRK](https://img.shields.io/badge/book-How%20computers%20really%20work-2ea44f?style=for-the-badge) </a>
+
 <br>
 
 ## ☕ __Linguagens de programação__
