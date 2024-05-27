@@ -17,6 +17,7 @@ _____
 ## ⚙️ __Introdução à computação__
 + [How computers really work](https://github.com/FireguiQueen/how-computers-really-work) 
 + [CS50](https://github.com/FireguiQueen/CS50)
++ https://img.shields.io/badge/CS50-Harvard's%20Computer%20Science%20Fifty%20course-2ea44f?style=for-the-badg
 
 <br>
 
