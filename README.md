@@ -3,7 +3,7 @@
 
 # Introdução :wave:
 Este repositório tem como objetivo reunir os meus repositórios mais importantes em relação ao meu caminho de aprendizado auto-ditada em ciências da computação.
-Você encontrará repositórios de computação (incluindo linguagens de baixo nível, hardware, circuitos..), linguagens de programação, banco de dados, matemática e física.
+Você encontrará uma variedade de repositórios abrangendo temas como computação de baixo nível (incluindo linguagens como C e Assembly, hardware, circuitos), linguagens de programação de alto nível, banco de dados, matemática e física.
 
 <br>
 
