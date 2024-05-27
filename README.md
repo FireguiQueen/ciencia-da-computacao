@@ -2,8 +2,7 @@
 ![cs1](https://github.com/FireguiQueen/ciencia-da-computacao/assets/98475125/731d3e76-02d6-43ab-b8f4-c6bcb2361e6f)
 
 # Introdução :wave:
-Este repositório tem como objetivo reunir os meus repositórios mais importantes em relação ao meu caminho de aprendizado auto-ditada em ciências da computação.
-Você encontrará uma variedade de repositórios abrangendo temas como computação de baixo nível (incluindo linguagens como C e Assembly, hardware, circuitos), linguagens de programação de alto nível, banco de dados, matemática e física.
+Este repositório tem como objetivo reunir os meus repositórios mais importantes relacionados ao meu caminho de aprendizado autodidata em ciências da computação. Você encontrará uma variedade de repositórios abrangendo temas como computação de baixo nível (incluindo linguagens como C e Assembly, hardware, circuitos), linguagens de programação de alto nível, banco de dados, matemática e física.
 
 <br>
 
