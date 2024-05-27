@@ -16,8 +16,8 @@ Você encontrará repositórios de computação (incluindo linguagens de baixo n
 _____
 
 ## __Introdução à computação__
-+ ### [CS50](https://github.com/FireguiQueen/CS50)
-+ ### [How computers really work](https://github.com/FireguiQueen/how-computers-really-work) 
++ [CS50](https://github.com/FireguiQueen/CS50)
++ [How computers really work](https://github.com/FireguiQueen/how-computers-really-work) 
 
 <br>
 
