@@ -14,17 +14,17 @@ Este repositório tem como objetivo reunir os meus repositórios mais importante
 
 _____
 
-## __Introdução à computação__
+## ⚙️ __Introdução à computação__
 + [How computers really work](https://github.com/FireguiQueen/how-computers-really-work) 
 + [CS50](https://github.com/FireguiQueen/CS50)
 
 <br>
 
-## __Linguagens de programação__
+## ☕ __Linguagens de programação__
 + [Java](https://github.com/FireguiQueen/Java)
 
 <br>
 
-## __Banco de dados__
-+ ### 
+## 🗃️ __Banco de dados__
++ 
 
