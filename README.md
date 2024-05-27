@@ -18,8 +18,7 @@ _____
 + [How computers really work](https://github.com/FireguiQueen/how-computers-really-work) 
 + [CS50](https://github.com/FireguiQueen/CS50)
   
-![ggg](https://img.shields.io/badge/course-Harvard's%20Computer%20Science 502ea44f?style=for-the-badg)
-
+[CS50](https://img.shields.io/badge/course-Harvard's%20computer%20science%20fifty-2ea44f?style=for-the-badge)
 
 <br>
 
