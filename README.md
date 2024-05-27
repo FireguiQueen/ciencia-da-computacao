@@ -22,7 +22,7 @@ _____
 <br>
 
 ## __Linguagens de programação__
-+ ### [Java](https://github.com/FireguiQueen/Java)
++ [Java](https://github.com/FireguiQueen/Java)
 
 <br>
 
