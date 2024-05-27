@@ -9,17 +9,16 @@ Este repositório de ciência da computação reune todos os meus outros reposit
 # Sumário
 Todos os repositórios encontrados aqui utilizam apenas materias online. 
 
-- **Introdução à Computação**: Contêm os conteúdos de introdução, é onde você pode começar e ver se quer fazer CC.
+- **Introdução à Computação**: Contêm os conteúdos de introdução. 
 - **Linguagens de programação (java)**: Contêm os conteúdos que vão desde o básico até o avançado sobre a linguagem. Contendo também subdiretórios de tecnologias relacionadas a java e back-end num geral. 
 
 <br>
 
 _____
 
-# Formação Geral  <a name="formacaogeral"> </a>
-
 ## __Introdução à computação__
 + ### [CS50](https://github.com/FireguiQueen/CS50)
++ ### [How computers really work](https://github.com/FireguiQueen/how-computers-really-work) 
 
 <br>
 
